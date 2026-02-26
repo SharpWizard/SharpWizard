@@ -1,12 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SharpWizard&fontSize=75&fontColor=fff&fontAlignY=55&desc=☕%20Full%20Stack%20Sleep%20Developer%20·%20Bugs%20Are%20Features%20·%20404%3A%20Sleep%20Not%20Found%20☕&descSize=14&descAlignY=75&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SharpWizard&fontSize=75&fontColor=fff&fontAlignY=55&desc=%E2%98%95%20Full%20Stack%20Sleep%20Developer%20%C2%B7%20Bugs%20Are%20Features%20%C2%B7%20404%3A%20Sleep%20Not%20Found%20%E2%98%95&descSize=14&descAlignY=75&animation=blinking" width="100%" />
 
-<!-- TYPING ANIMATION -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFD4&center=true&vCenter=true&random=false&width=800&height=60&lines=🤖+AI+%2F+ML+Engineer+(by+day);😴+Full+Stack+Sleep+Developer+(by+night);☕+Powered+by+Coffee+%26+Existential+Dread;🐛+My+code+works%2C+I+don't+know+why;🧠+LLMs+·+Neural+Nets+·+Computer+Vision;🔥+I+don't+fix+bugs%2C+I+create+features!" alt="Typing SVG" />
-</a>
+<!-- TYPING ANIMATION (emojis fully percent-encoded) -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFD4&center=true&vCenter=true&random=false&width=800&height=60&lines=%F0%9F%A4%96+AI+%2F+ML+Engineer+(by+day);%F0%9F%98%B4+Full+Stack+Sleep+Developer+(by+night);%E2%98%95+Powered+by+Coffee+%26+Existential+Dread;%F0%9F%90%9B+My+code+works%2C+I+don%27t+know+why;%F0%9F%A7%A0+LLMs+%C2%B7+Neural+Nets+%C2%B7+Computer+Vision;%F0%9F%94%A5+I+don%27t+fix+bugs%2C+I+create+features!" alt="Typing SVG" />
 
 <br/>
 
