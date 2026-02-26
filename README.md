@@ -1,16 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=220&section=header&text=SharpWizard&fontSize=78&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20Bugs%20Are%20Features%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found&descSize=15&descAlignY=62&descColor=cccccc" width="100%" />
+<!-- BANNER: plain SVG — guaranteed to render, pure black/white -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=151515&height=200&section=header&text=SharpWizard&fontSize=80&fontColor=f0f0f0&fontAlignY=50&fontAlign=40&desc=Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found&descSize=16&descAlignY=70&descAlign=60&descColor=aaaaaa" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=ffffff&center=true&vCenter=true&width=700&height=50&lines=AI+Engineer+%7C+ML+Practitioner;Full+Stack+Sleep+Developer;Python+%7C+LLMs+%7C+Neural+Networks;Deploying+at+3am+since+2020;Bugs+Are+Undocumented+Features" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=800&color=808080&center=true&vCenter=true&width=700&height=50&lines=AI+Engineer+%7C+ML+Practitioner;Full+Stack+Sleep+Developer;Python+%7C+LLMs+%7C+Neural+Networks;Deploying+at+3am+since+2020;Bugs+Are+Undocumented+Features" alt="Typing SVG" />
 
 <br/>
 
-![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-white?style=flat-square&logo=github&logoColor=white&labelColor=000000&color=111111)
+![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-000?style=flat-square&logo=github&logoColor=white&labelColor=000&color=333)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=SharpWizard&color=111111&style=flat-square&label=Profile+Views)
+![Views](https://komarev.com/ghpvc/?username=SharpWizard&color=333&style=flat-square&label=Views)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Caffeinated-white?style=flat-square&labelColor=000000&color=111111)
+![Status](https://img.shields.io/badge/Status-Caffeinated-000?style=flat-square&labelColor=000&color=333)
 
 </div>
 
@@ -116,9 +118,5 @@ print(SharpWizard().boot())
 <br/>
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
-
-*"Any sufficiently advanced code is indistinguishable from magic — especially at 3am."*
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=slice&color=151515&height=80&section=footer&fontColor=888888&fontSize=13&text=Any%20sufficiently%20advanced%20code%20is%20indistinguishable%20from%20magic%20—%20especially%20at%203am.&fontAlignY=50" />
 </div>
