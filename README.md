@@ -1,188 +1,124 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CYBERPUNK HEADER BANNER                   -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080010,50:0d0020,100:080010&height=250&section=header&text=SharpWizard&fontSize=85&fontColor=00fff2&fontAlignY=45&fontAlign=50&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20Bugs%20Are%20Features%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found&descSize=16&descAlignY=68&descAlign=50&descColor=bc13fe&animation=fadeIn" width="100%" />
-
-<!-- NEON DIVIDER -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00FFF2&center=true&vCenter=true&width=750&height=55&lines=%3E_+AI+Engineer+%7C+ML+Sorcerer;%3E_+Full+Stack+Sleep+Developer;%3E_+Powered+by+Coffee+%26+Bugs;%3E_+Python+%7C+LLMs+%7C+Neural+Nets;%3E_+Deploying+at+3am+since+2020" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=SharpWizard&fontSize=80&fontColor=ffffff&fontAlignY=50&fontAlign=50&desc=Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20Bugs%20Are%20Features%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found&descSize=15&descAlignY=72&descAlign=50&descColor=aaaaaa&animation=fadeIn" width="100%" />
 
 <br/>
 
-<!-- BADGES -->
-[![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-00fff2?style=flat-square&logo=github&logoColor=00fff2&labelColor=0d0014)](https://github.com/SharpWizard)
-&nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=SharpWizard&color=bc13fe&style=flat-square&label=Profile+Views)
-&nbsp;
-![Status](https://img.shields.io/badge/Status-Caffeinated-ff00ff?style=flat-square&logo=buymeacoffee&logoColor=ff00ff&labelColor=0d0014)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=ffffff&background=00000000&center=true&vCenter=true&width=700&height=50&lines=AI+Engineer+%7C+ML+Practitioner;Full+Stack+Sleep+Developer;Python+%7C+LLMs+%7C+Neural+Networks;Deploying+at+3am+since+2020;Bugs+Are+Just+Undocumented+Features" alt="Typing SVG" />
 
-<br/><br/>
+<br/>
+
+![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-ffffff?style=flat-square&logo=github&logoColor=black&labelColor=000000&color=ffffff)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=SharpWizard&color=ffffff&style=flat-square&label=Profile+Views)
+&nbsp;
+![Status](https://img.shields.io/badge/Status-Caffeinated-ffffff?style=flat-square&logoColor=black&labelColor=000000&color=ffffff)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   ABOUT / GRIMOIRE                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ⚡ <span>SYS://INIT — THE WIZARD'S GRIMOIRE</span>
+---
 
 ```python
 #!/usr/bin/env python3
-# ┌─────────────────────────────────────────────────────────────────┐
-# │  ██████╗██╗   ██╗██████╗ ███████╗██████╗ ██████╗  █████╗       │
-# │ ██╔════╝╚██╗ ██╔╝██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔══██╗      │
-# │ ██║      ╚████╔╝ ██████╔╝█████╗  ██████╔╝██████╔╝███████║      │
-# │ ██║       ╚██╔╝  ██╔══██╗██╔══╝  ██╔══██╗██╔═══╝ ██╔══██║      │
-# │ ╚██████╗   ██║   ██████╔╝███████╗██║  ██║██║     ██║  ██║      │
-# │  ╚═════╝   ╚═╝   ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝     │
-# │                     [ SYSTEM INITIALIZED ]                      │
-# └─────────────────────────────────────────────────────────────────┘
+# ┌──────────────────────────────────────────────────────┐
+# │              SharpWizard — System Initialized        │
+# └──────────────────────────────────────────────────────┘
 
-from __future__ import annotations
-from typing import List
 from dataclasses import dataclass, field
+from typing import List
 
 @dataclass
 class SharpWizard:
-    # ── Identity ─────────────────────────────────────────────────
     name:         str = "# Wizard"
-    alias:        str = "SharpWizard"
     title:        str = "Full Stack Sleep Developer™  |  AI Sorcerer"
-    location:     str = "The Void 🌌  (somewhere between a bug and a feature)"
-    pronouns:     str = "he / him"
-    sleep:        str = "undefined  ← 404: Not Found"
+    location:     str = "The Void  (somewhere between a bug and a feature)"
+    sleep:        str = "undefined  ←  404: Not Found"
 
-    # ── Core Protocols ───────────────────────────────────────────
-    neural_stack: List[str] = field(default_factory=lambda: [
-        "🤖  LLMs · Prompt Engineering · RAG Pipelines",
-        "🧠  Deep Learning · PyTorch · TensorFlow · HuggingFace",
-        "👁️  Computer Vision · OpenCV · YOLO · Diffusion Models",
-        "🗣️  NLP · Transformers · Embeddings · Fine-Tuning",
-        "🐍  Python · FastAPI · Async · Pydantic",
-        "⚙️  MLOps · Docker · CI/CD · Model Deployment",
-        "📊  Data Science · Pandas · NumPy · Plotly",
-        "☕  Coffee → Code → Deploy → Repeat  [infinite loop]",
+    stack: List[str] = field(default_factory=lambda: [
+        "LLMs · Prompt Engineering · RAG Pipelines",
+        "Deep Learning · PyTorch · TensorFlow · HuggingFace",
+        "Computer Vision · OpenCV · YOLO · Diffusion Models",
+        "NLP · Transformers · Embeddings · Fine-Tuning",
+        "Python · FastAPI · Async · Pydantic",
+        "MLOps · Docker · CI/CD · Model Deployment",
+        "Data Science · Pandas · NumPy · Plotly",
+        "Coffee → Code → Deploy → Repeat  [ infinite loop ]",
     ])
 
-    # ── Runtime Status ───────────────────────────────────────────
-    currently:    str = "🔭  Building AI tools at 3am that scare me by morning"
-    learning:     str = "📡  Multimodal AI · AI Agents · Agentic Workflows"
-    ask_me:       str = "💬  Python · AI/ML · Why my code works only at night"
-    fun_fact:     str = "🐛  Fixed a prod bug by deleting the 'fix' for it"
-    threat_level: str = "☕  MAXIMUM  (coffee: critically low — send help)"
+    currently:  str = "Building AI tools at 3am that scare me by morning"
+    learning:   str = "Multimodal AI · AI Agents · Agentic Workflows"
+    fun_fact:   str = "Fixed a prod bug by deleting the fix for it"
 
     def boot(self) -> str:
         return (
-            "\n[SYS] Initializing SharpWizard v3.0..."
-            "\n[SYS] Loading caffeine modules............... OK"
-            "\n[SYS] Importing neural networks.............. OK"
-            "\n[SYS] Compiling sleep schedule............... ERROR 404"
-            "\n[SYS] ► Ready. Let's build something legendary. ⚡"
+            "[SYS] Initializing SharpWizard v3.0 ................. OK"  "\n"
+            "[SYS] Loading caffeine modules ....................... OK"  "\n"
+            "[SYS] Importing neural networks ...................... OK"  "\n"
+            "[SYS] Compiling sleep schedule ....................... ERROR 404"  "\n"
+            "[SYS] ► Ready. Let's build something legendary."
         )
 
-wizard = SharpWizard()
-print(wizard.boot())
+print(SharpWizard().boot())
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      TECH ARSENAL                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⚡ TECH ARSENAL
+## Tech Stack
 
 <div align="center">
 
-### ◈ AI / MACHINE LEARNING STACK ◈
-
-![Python](https://img.shields.io/badge/Python-0d0014?style=for-the-badge&logo=python&logoColor=00fff2)
-![PyTorch](https://img.shields.io/badge/PyTorch-0d0014?style=for-the-badge&logo=pytorch&logoColor=ff2d78)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0d0014?style=for-the-badge&logo=tensorflow&logoColor=ff9900)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0d0014?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-0d0014?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![OpenCV](https://img.shields.io/badge/OpenCV-0d0014?style=for-the-badge&logo=opencv&logoColor=bc13fe)
-![Pandas](https://img.shields.io/badge/Pandas-0d0014?style=for-the-badge&logo=pandas&logoColor=00fff2)
-![NumPy](https://img.shields.io/badge/NumPy-0d0014?style=for-the-badge&logo=numpy&logoColor=4dabf7)
-
-### ◈ BACKEND / INFRASTRUCTURE STACK ◈
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0d0014?style=for-the-badge&logo=fastapi&logoColor=00fff2)
-![Docker](https://img.shields.io/badge/Docker-0d0014?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d0014?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Redis](https://img.shields.io/badge/Redis-0d0014?style=for-the-badge&logo=redis&logoColor=ff2d78)
-![Linux](https://img.shields.io/badge/Linux-0d0014?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Git](https://img.shields.io/badge/Git-0d0014?style=for-the-badge&logo=git&logoColor=F05032)
-![C#](https://img.shields.io/badge/C%23-0d0014?style=for-the-badge&logo=c-sharp&logoColor=bc13fe)
-![VS Code](https://img.shields.io/badge/VS_Code-0d0014?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   SKILLS MATRIX                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⚡ NEURAL SKILL MATRIX
+## Skill Matrix
 
 ```
-  ┌──────────────────────────────────────────────────────────────┐
-  │                  [ SKILL CALIBRATION REPORT ]                │
-  ├──────────────────────────────────────────────────────────────┤
-  │                                                              │
-  │  🤖  AI / LLMs        ░░░░░░░░░░░░░░░░▓▓▓▓  80%  ONLINE    │
-  │  🐍  Python           ░░░░░░░░░░░░░░░░░░░░  99%  GODMODE   │
-  │  🧠  Deep Learning    ░░░░░░░░░░░░░░░▓▓▓▓▓  75%  ONLINE    │
-  │  📊  Data Science     ░░░░░░░░░░░░░░▓▓▓▓▓▓  70%  ONLINE    │
-  │  🎯  CV / NLP         ░░░░░░░░░░░░▓▓▓▓▓▓▓▓  60%  ONLINE    │
-  │  ⚙️  Backend / Infra  ░░░░░░░░░░░░░▓▓▓▓▓▓▓  65%  ONLINE    │
-  │  😴  Sleep Schedule   ░░░░░░░░░░░░░░░░░░▓▓  10%  CRITICAL  │
-  │  ☕  Coffee Intake    ░░░░░░░░░░░░░░░░░░░░  99%  GODMODE   │
-  │                                                              │
-  └──────────────────────────────────────────────────────────────┘
+  AI / LLMs        ████████████████░░░░  80%   online
+  Python           ████████████████████  99%   godmode
+  Deep Learning    ███████████████░░░░░  75%   online
+  Data Science     ██████████████░░░░░░  70%   online
+  CV / NLP         ████████████░░░░░░░░  60%   online
+  Backend / Infra  █████████████░░░░░░░  65%   online
+  Sleep Schedule   ██░░░░░░░░░░░░░░░░░░  10%   critical
+  Coffee Intake    ████████████████████  99%   godmode
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      CONNECT                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## ⚡ ESTABLISH CONNECTION
+## Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GITHUB-SharpWizard-00fff2?style=for-the-badge&logo=github&logoColor=00fff2&labelColor=0d0014)](https://github.com/SharpWizard)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-bc13fe?style=for-the-badge&logo=linkedin&logoColor=bc13fe&labelColor=0d0014)](https://linkedin.com/in/SharpWizard)
-[![Twitter](https://img.shields.io/badge/TWITTER-Follow-ff00ff?style=for-the-badge&logo=twitter&logoColor=ff00ff&labelColor=0d0014)](https://twitter.com/SharpWizard)
-
-<br/>
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SharpWizard)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SharpWizard)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SharpWizard)
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                       FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0014,50:130025,100:0d0014&height=150&section=footer&animation=fadeIn&fontColor=00fff2" width="100%"/>
-
-```
-  ██████████████████████████████████████████████████████████████
-  ██  "Any sufficiently advanced code is indistinguishable    ██
-  ██   from magic — especially at 3am with no sleep."  🧙‍♂️⚡  ██
-  ██████████████████████████████████████████████████████████████
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=80&section=footer&fontSize=14&fontColor=555555&fontAlignY=50&text=Any%20sufficiently%20advanced%20code%20is%20indistinguishable%20from%20magic%20—%20especially%20at%203am." width="100%" />
 
 </div>
