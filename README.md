@@ -4,17 +4,17 @@
 <!--                  CYBERPUNK HEADER BANNER                   -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0014,30:130025,60:1a0035,100:0d0014&height=280&section=header&text=SharpWizard&fontSize=80&fontColor=00fff2&fontAlignY=45&stroke=bc13fe&strokeWidth=3&desc=%E2%96%93%20Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20Bugs%20Are%20Features%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found%20%E2%96%93&descSize=15&descAlignY=68&descColor=ff00ff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080010,50:0d0020,100:080010&height=250&section=header&text=SharpWizard&fontSize=85&fontColor=00fff2&fontAlignY=45&fontAlign=50&stroke=ff00ff&strokeWidth=2&desc=Full%20Stack%20Sleep%20Developer%20%E2%80%A2%20Bugs%20Are%20Features%20%E2%80%A2%20404%3A%20Sleep%20Not%20Found&descSize=16&descAlignY=68&descAlign=50&descColor=bc13fe&animation=fadeIn" width="100%" />
 
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- TYPING ANIMATION — cyberpunk lines -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&duration=2200&pause=700&color=00FFF2&background=00000000&center=true&vCenter=true&random=false&width=850&height=65&lines=%3E_%20AI+%2F+ML+Engineer+(by+day);%3E_%20Full+Stack+Sleep+Developer+(by+night);%3E_%20Powered+by+Coffee+%26+Existential+Dread;%3E_%20My+code+works%2C+I+don%27t+know+why;%3E_%20LLMs+%C2%B7+Neural+Nets+%C2%B7+Computer+Vision;%3E_%20I+don%27t+fix+bugs%2C+I+ship+features%21" alt="Typing SVG" />
+<!-- TYPING ANIMATION -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=22&duration=2200&pause=700&color=00FFF2&center=true&vCenter=true&width=750&height=55&lines=%3E_+AI+Engineer+%7C+ML+Sorcerer;%3E_+Full+Stack+Sleep+Developer;%3E_+Powered+by+Coffee+%26+Bugs;%3E_+Python+%7C+LLMs+%7C+Neural+Nets;%3E_+Deploying+at+3am+since+2020" alt="Typing SVG" />
 
 <br/>
 
-<!-- BADGES ROW -->
+<!-- BADGES -->
 [![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-00fff2?style=flat-square&logo=github&logoColor=00fff2&labelColor=0d0014)](https://github.com/SharpWizard)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=SharpWizard&color=bc13fe&style=flat-square&label=Profile+Views)
