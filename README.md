@@ -10,7 +10,7 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-000?style=flat-square&logo=github&logoColor=white&labelColor=000&color=333)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=SharpWizard&color=333&style=flat-square&label=Views)
+![Views](https://komarev.com/ghpvc/?username=SharpWizard&color=222222&style=flat-square&label=Views)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Caffeinated-000?style=flat-square&labelColor=000&color=333)
 
