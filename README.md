@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- ANIMATED BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SharpWizard&fontSize=75&fontColor=fff&fontAlignY=55&desc=⚡%20AI%20Engineer%20·%20Python%20Architect%20·%20ML%20Sorcerer%20⚡&descSize=17&descAlignY=75&animation=blinking" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=SharpWizard&fontSize=75&fontColor=fff&fontAlignY=55&desc=☕%20Full%20Stack%20Sleep%20Developer%20·%20Bugs%20Are%20Features%20·%20404%3A%20Sleep%20Not%20Found%20☕&descSize=14&descAlignY=75&animation=blinking" width="100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00FFD4&center=true&vCenter=true&random=false&width=750&height=60&lines=🤖+AI+%2F+ML+Engineer;🐍+Python+Architect+%26+Open+Source+Dev;🧠+LLMs+·+Neural+Nets+·+Computer+Vision;🔮+Turning+Data+into+Intelligence;⚡+Welcome+to+my+code+multiverse!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFD4&center=true&vCenter=true&random=false&width=800&height=60&lines=🤖+AI+%2F+ML+Engineer+(by+day);😴+Full+Stack+Sleep+Developer+(by+night);☕+Powered+by+Coffee+%26+Existential+Dread;🐛+My+code+works%2C+I+don't+know+why;🧠+LLMs+·+Neural+Nets+·+Computer+Vision;🔥+I+don't+fix+bugs%2C+I+create+features!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -34,9 +34,10 @@ from dataclasses import dataclass, field
 class SharpWizard:
     name:         str  = "# Wizard"
     alias:        str  = "SharpWizard"
-    title:        str  = "AI Engineer · Python Architect · ML Sorcerer"
-    location:     str  = "The Code Multiverse 🌌"
+    title:        str  = "Full Stack Sleep Developer™"
+    location:     str  = "The Code Multiverse 🌌 (somewhere between a bug and a feature)"
     pronouns:     str  = "he/him"
+    sleep:        str  = "what is sleep? (asking for a friend)"
 
     superpowers: List[str] = field(default_factory=lambda: [
         "🤖  Large Language Models & Prompt Engineering",
@@ -46,17 +47,21 @@ class SharpWizard:
         "🐍  Python · FastAPI · Async Programming",
         "⚙️  MLOps · Docker · CI/CD Pipelines",
         "📊  Data Science · Pandas · NumPy · Plotly",
+        "☕  Running on 4 cups of coffee · No exceptions",
     ])
 
-    currently:    str = "🔭 Building AI tools that push boundaries"
+    currently:    str = "🔭 Building AI tools that push boundaries (at 3am)"
     learning:     str = "📡 Multimodal AI · Agents · RAG Pipelines"
-    ask_me_about: str = "💬 Python, AI/ML, System Design, Open Source"
+    ask_me_about: str = "💬 Python, AI/ML, why my code works at midnight but not at noon"
+    fun_fact:     str = "🐛 I once fixed a bug by deleting the code that 'fixed' it"
 
     def execute(self) -> str:
-        return "🚀 print('Hello, Universe — let\'s build something legendary.')"
+        coffee_level = "critically low ☕"
+        return f"🚀 Hello, Universe — let's build something legendary. (coffee: {coffee_level})"
 
 wizard = SharpWizard()
 print(wizard.execute())
+# Output: 🚀 Hello, Universe — let's build something legendary. (coffee: critically low ☕)
 ```
 
 ---
@@ -89,45 +94,17 @@ print(wizard.execute())
 
 ---
 
-## 📊 Intelligence Report
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SharpWizard&show_icons=true&theme=synthwave&hide_border=true&count_private=true&bg_color=0d0d0d&title_color=00ffd4&icon_color=00ffd4&text_color=c9d1d9&ring_color=00ffd4" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=SharpWizard&theme=synthwave&hide_border=true&background=0d0d0d&ring=00ffd4&fire=ff6b6b&currStreakLabel=00ffd4&sideLabels=00ffd4&dates=888" />
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SharpWizard&layout=donut&theme=synthwave&hide_border=true&bg_color=0d0d0d&title_color=00ffd4&text_color=c9d1d9&langs_count=6" />
-
-<br/>
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=SharpWizard&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-
-</div>
-
----
-
-## 📈 Contribution Matrix
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SharpWizard&custom_title=SharpWizard%27s%20Contribution%20Graph&bg_color=0d0d0d&color=00ffd4&line=00ffd4&point=ffffff&area=true&area_color=00ffd4&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🧠 AI Focus Areas
+## 🧠 Skills vs. Sleep Deprivation
 
 ```
-🔬 Research      ████████████████░░░░  80%  LLMs & Foundation Models
-🤖 Engineering   ███████████████░░░░░  75%  MLOps & Model Deployment  
-🐍 Python        ████████████████████  99%  Core Language & Ecosystem
-📊 Data Science  ██████████████░░░░░░  70%  EDA, Feature Eng, Pipelines
-🎯 CV/NLP        ████████████░░░░░░░░  60%  Vision & Language Models
-⚙️ Backend       █████████████░░░░░░░  65%  APIs, Microservices, Infra
+🤖 AI Research       ████████████████░░░░  80%   ← powered by curiosity & caffeine
+🐍 Python            ████████████████████  99%   ← basically a Python native speaker
+🧠 Deep Learning     ███████████████░░░░░  75%   ← and dark circles
+📊 Data Science      ██████████████░░░░░░  70%   ← pandas > pandas bear
+🎯 CV / NLP          ████████████░░░░░░░░  60%   ← still learning to blink less
+⚙️ Backend / Infra   █████████████░░░░░░░  65%   ← it works on my machine™
+😴 Sleep Schedule    ██░░░░░░░░░░░░░░░░░░  10%   ← CRITICAL: help needed
+☕ Coffee Dependency ████████████████████  99%   ← non-negotiable
 ```
 
 ---
@@ -148,6 +125,6 @@ print(wizard.execute())
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=130&section=footer&animation=twinkling" width="100%"/>
 
-<i>"Any sufficiently advanced code is indistinguishable from magic." ✨🧙‍♂️</i>
+<i>"Any sufficiently advanced code is indistinguishable from magic — and any sufficiently sleep-deprived dev is indistinguishable from a wizard." ✨🧙‍♂️☕</i>
 
 </div>
