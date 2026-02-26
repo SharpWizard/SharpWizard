@@ -9,7 +9,7 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![GitHub followers](https://img.shields.io/github/followers/SharpWizard?label=Follow&style=social)](https://github.com/SharpWizard)
+[![GitHub](https://img.shields.io/badge/GitHub-SharpWizard-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SharpWizard)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=SharpWizard&color=00ffd4&style=flat-square&label=Profile+Views)
 
